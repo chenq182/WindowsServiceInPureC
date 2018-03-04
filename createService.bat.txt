@@ -1,0 +1,2 @@
+sc create MemoryStatus binpath= CService.exe
+pause
